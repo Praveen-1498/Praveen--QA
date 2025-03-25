@@ -48,3 +48,13 @@
 <p align="left">* Tools <br><br>•  JIRA<br>•  Testrail<br>•  GitHub<br>•  Android Studio<br>•  PS Neighborhood & Target Manager<br>•  Click-Up<br>•  Bonsai<br>•  Mantis<br>•  Xbox GDK<br>•  Confluence</p>
 
 ###
+
+<p align="left">Contact Me<br>If you're looking to connect, collaborate, or explore opportunities, feel free to reach out via LinkedIn or email me at praveenmahato111@gmail.com.</p>
+
+###
+
+<div align="center">
+  <img height="215" src="https://tse4.mm.bing.net/th?id=OIP.4lO6idgckvubyqkoandUrwHaD7&pid=Api&P=0&h=220"  />
+</div>
+
+###
