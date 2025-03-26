@@ -1,4 +1,4 @@
-<h1 align="left">Hey, It's Praveen!<br>Crafting worlds, one pixel at a time, with players at the core.</h1>
+<h1 align="left">Hey, It's Praveen Mahato!<br>Crafting worlds, one pixel at a time, with players at the core.</h1>
 
 ###
 
